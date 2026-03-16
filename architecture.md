@@ -171,4 +171,20 @@ Future work will include:
 - observability using metrics and monitoring systems
 - performance testing with high PPS workloads
 
+## Observability Considerations
+
+Effective monitoring is required to evaluate the behavior of the mitigation system.
+
+Key metrics that should be monitored include:
+
+- packets per second (PPS)
+- dropped packets at filtering layers
+- CPU utilization
+- connection rate
+- active connections
+
+These metrics help identify abnormal traffic patterns and evaluate the effectiveness of mitigation layers.
+
+Future implementations may integrate monitoring systems such as metrics collectors and dashboards to visualize system performance.
+
 [Packet Processing Pipeline](packet-processing.md)
