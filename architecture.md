@@ -2,10 +2,9 @@
 
 ## 1. Overview
 
-This document describes the architecture of a Layer 7 DDoS mitigation system designed to handle high packet-per-second attacks using XDP and eBPF.
+This document describes the architecture of a Layer 7 DDoS mitigation system designed to handle high packet-per-second attacks.
 
-The goal of this architecture is to filter malicious traffic as early as possible in the Linux networking stack to reduce CPU overhead and prevent application layer saturation.
-
+The architecture uses early packet filtering techniques such as XDP/eBPF to reduce CPU overhead and prevent application layer saturation.
 ---
 
 ## 2. Problem Statement
