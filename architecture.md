@@ -170,3 +170,5 @@ Future work will include:
 - benchmarking under simulated attack traffic
 - observability using metrics and monitoring systems
 - performance testing with high PPS workloads
+
+[Packet Processing Pipeline](packet-processing.md)
