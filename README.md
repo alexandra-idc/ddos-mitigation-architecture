@@ -12,8 +12,6 @@ The architecture focuses on handling high packet-per-second (PPS) attacks by app
 - [Packet Processing Pipeline](packet-processing.md)
 - [Kernel Networking Tuning](kernel-tuning.md)
 - [Threat Model](threat-model.md)
-- [Observability](observability.md)
-
 ---
 
 ## Project Status
