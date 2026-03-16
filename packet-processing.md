@@ -130,3 +130,5 @@ The packet processing pipeline applies layered filtering:
 5. Reverse proxy application filtering
 
 This layered approach significantly improves resilience against high PPS and Layer 7 attacks.
+
+[Kernel Networking Tuning](kernel-tuning.md)
