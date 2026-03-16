@@ -7,7 +7,8 @@ This repository documents the design of a high-performance Layer 7 DDoS mitigati
 - [Architecture Overview](architecture.md)
 - [Packet Processing Pipeline](packet-processing.md)
 - [Kernel Networking Tuning](kernel-tuning.md)
-
+- [Threat Model](threat-model.md)
+- 
 ## Project Status
 
 Design phase – implementation and benchmarking planned.
