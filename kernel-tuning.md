@@ -79,3 +79,5 @@ These adjustments help the system recover faster during attack conditions.
 Kernel tuning plays a critical role in supporting high packet-per-second workloads.
 
 Combined with early packet filtering and firewall rules, proper kernel configuration significantly improves the resilience of the mitigation system.
+
+[Threat Model](threat-model.md)
