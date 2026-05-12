@@ -1,5 +1,5 @@
 # High-Performance Layer 7 DDoS Mitigation Architecture
-# This architecture is the technical foundation for the consultation methodology at Mirai Guard.
+# This architecture is the technical foundation for the consultation methodology at [MiraiGuard](https://www.miraiguard.com).
 
 This repository documents the design of a high-performance Layer 7 DDoS mitigation architecture using layered filtering techniques.
 
